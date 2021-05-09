@@ -1,0 +1,18 @@
+{
+  "id": 0,
+  "category": {
+    "id": 0,
+    "name": 'Cat'
+  },
+  "name": 'Olive',
+  "photoUrls": [
+    'https://images.unsplash.com/photo-1524511751214-b0a384dd9afe?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8'
+  ],
+  "tags": [
+    {
+      "id": 0,
+      "name": 'tagName'
+    }
+  ],
+  "status": 'available'
+}
